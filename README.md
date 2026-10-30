@@ -7,4 +7,4 @@ some future improvements include :  the ui which is the soul of this project, th
 idk if i can pull it off without anyone because the ai subscriptions cost more than my parents allow me to spend... and its too complicated for me i guess
 
 
-if anyone reading this - thank you for reading
+if anyone is reading this - thank you for reading
